@@ -1,0 +1,19 @@
+.header{
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    border-bottom: 1px solid black;
+    background-color: aqua;
+}
+
+.selectInput{
+    left: 25%;
+    position: absolute;
+    width: 200px;
+    border: 1px solid black;
+}
+.delete{
+    position: absolute;
+    left: 55%
+}

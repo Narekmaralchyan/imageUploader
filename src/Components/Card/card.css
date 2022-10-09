@@ -1,0 +1,21 @@
+.CardContainer{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+.CardImage{
+    height: 300px;
+    width: 300px;
+}
+.cardInput{
+    position:absolute;
+    width: 20px;
+    height: 20px;
+    bottom: 0;
+    left: 0;
+    margin: 10px;
+
+}
